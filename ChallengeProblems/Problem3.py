@@ -1,4 +1,4 @@
-#Problem Statement - Count Occurrences of each unique word in a Sentence
+#Problem Statement - List - Count Occurrences of each unique word in a Sentence
 
 def countOccurrences(sentence):
     word_list = sentence.split()
